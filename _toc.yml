@@ -9,6 +9,7 @@ parts:
 
 - caption: Accepted JEPs
   chapters:
+  - file: 79-notebook-v7/notebook-v7
   - file: 62-cell-id/cell-id
   - file: 44-xeus-incorporation/xeus-incorporation
   - file: 42-voila-incorporation/voila-incorporation
